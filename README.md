@@ -3,7 +3,8 @@
 Hello, World! 👋 I'm Jiacheng.
 🔭 I'm currently pouring my passion and skills into two exciting personal projects:
 
-TreeHole: Anonymous, tell or write your secrets
+TreeHole: Anonymous, tell or write your secrets;
+
 StudyMate: Why study alone when you can study with your mate?
 
 🌱 My interests revolve around AI and Full-Stack Development. I love diving deep into algorithms and then bringing them to life through intuitive interfaces.
