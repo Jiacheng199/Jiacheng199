@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jiacheng199/Jiacheng199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, World! 👋 I'm Jiacheng.
+🔭 I'm currently pouring my passion and skills into two exciting personal projects:
 
-Here are some ideas to get you started:
+TreeHole: Anonymous, tell or write your secrets
+StudyMate: Why study alone when you can study with your mate?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 My interests revolve around AI and Full-Stack Development. I love diving deep into algorithms and then bringing them to life through intuitive interfaces.
+
+🏙️ Based in the vibrant city of Melbourne, where coffee meets code.
+
+💬 Let's talk about AI innovations, the best tech stacks, or the future of web apps.
+
+📫 Reach out to me here on GitHub or drop an email!
